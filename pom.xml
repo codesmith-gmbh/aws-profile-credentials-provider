@@ -5,7 +5,7 @@
     <packaging>jar</packaging>
     <groupId>codesmith</groupId>
     <artifactId>aws-profile-credentials-provider</artifactId>
-    <version>0.9.0</version>
+    <version>0.9.1</version>
     <name>aws-profile-credentials-provider</name>
     <description>A profile credentials provider library for cognitect-labs/aws-api.</description>
     <url>https://github.com/codesmith-gmbh/aws-profile-credentials-provider</url>
