@@ -12,7 +12,7 @@
            :outdated {:extra-deps {antq/antq {:mvn/version "0.7.3"}}
                       :main-opts  ["-m" "antq.core"]}
            :jar      {:extra-deps {seancorfield/depstar {:mvn/version "1.1.117"}}
-                      :main-opts  ["-m" "hf.depstar.jar" "target/codesmith-logger.jar"]}
+                      :main-opts  ["-m" "hf.depstar.jar" "target/codesmith-aws-profile-credentials-provider.jar"]}
            :deploy   {:extra-deps {slipset/deps-deploy {:mvn/version "0.1.0"}}
                       :main-opts  ["-m" "deps-deploy.deps-deploy" "deploy"
-                                   "target/codesmith-logger.jar"]}}}
+                                   "target/codesmith-aws-profile-credentials-provider.jar"]}}}
