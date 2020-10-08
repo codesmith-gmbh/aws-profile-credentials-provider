@@ -24,7 +24,7 @@
         </developer>
     </developers>
     <scm>
-        <url>https://github.com/codesmith/aws-api-role-profile-creds</url>
+        <url>https://github.com/codesmith/aws-profile-credentials-provider</url>
         <connection>scm:git:git://github.com/codesmith-gmbh/aws-profile-credentials-provider.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/codesmith-gmbh/aws-profile-credentials-provider.git</developerConnection>
         <tag>HEAD</tag>
