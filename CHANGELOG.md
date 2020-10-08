@@ -1,7 +1,7 @@
 # Change Log
 All notable changes to this project will be documented in this file. This change log follows the conventions of [keepachangelog.com](http://keepachangelog.com/).
 
-## 0.9.3
+## 0.9.4
 
 ### Fixed
 - Fix scm section in `pom.xml` file for cljdocs generation.
